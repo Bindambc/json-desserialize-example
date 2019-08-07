@@ -17,7 +17,7 @@
 	}
 }
 ```
-### Gerador pojo
-```
+### Gerador pojo:
+
 http://www.jsonschema2pojo.org/
-```
+
